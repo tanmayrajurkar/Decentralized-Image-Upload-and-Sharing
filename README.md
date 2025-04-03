@@ -2,6 +2,12 @@
 
 This project facilitates decentralized image upload and sharing on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.
 
+<<<<<<< HEAD
+=======
+Here is the video in English - [Decentralize Google Drive](https://youtu.be/M-KRLlHG_zs?si=rD7I-fH-P8kGiwwf)
+
+Here is the video in Hindi - [Decentralize Google Drive](https://youtu.be/fghqq3-P3x0?si=CVMpHFTW3-fa3R3A)
+>>>>>>> 0d14f38 (env changed)
 
 ## Features
 
@@ -81,4 +87,7 @@ Once the setup and configuration are complete, follow these steps to utilize the
 
 These steps will ensure smooth navigation and utilization of the system while maintaining access control and avoiding potential errors.
 
+<<<<<<< HEAD
 # technical-mavde-dino-hack
+=======
+>>>>>>> 0d14f38 (env changed)
